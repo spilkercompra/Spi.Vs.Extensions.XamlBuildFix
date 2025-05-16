@@ -1,0 +1,1 @@
+Monkey Patch for https://developercommunity.visualstudio.com/t/Azure-DevOps-Error---0x00-is-an-inval/10603645
