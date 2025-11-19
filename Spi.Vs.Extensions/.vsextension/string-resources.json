@@ -1,4 +1,5 @@
 {
+  "Spi.Vs.Extensions.Menu.DisplayName": "Spi.Vs.Extensions",
   "Spi.Vs.Extensions.XamlBuildFix.XamlBuildFixCommand.DisplayName": "Execute XamlBuildFix",
-  "MyMenu.DisplayName": "Spi.Vs.Extensions"
+  "Spi.Vs.Extensions.About.AboutCommand.DisplayName": "About"
 }
